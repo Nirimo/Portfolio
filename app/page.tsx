@@ -1,7 +1,7 @@
 import Navbar from "@/components/navbar/navbar";
 import Robot from "@/components/robot/robot";
 import About from "@/components/about/about";
-import Image from "next/image";
+import Skills from "@/components/skills/skills";
 
 
 export default function Home() {
@@ -10,6 +10,7 @@ export default function Home() {
       <Navbar/>
       <Robot/>
       <About/>
+      <Skills/>
     </main>
   )
 }
