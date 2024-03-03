@@ -1,12 +1,35 @@
-{
-    "skilla": [
-        {
-            "name": "HTML",
-            "path": "/HTML.png"
-        },
-        {
-            "name": "CSS",
-            "path": "/CSS.png"
-        }
+[
+    {
+        "name": "HTML",
+        "path": "/assets/skills/HTML.png"
+    },
+    {
+        "name": "CSS",
+        "path": "/assets/skills/CSS.png"
+    },
+    {
+        "name": "Javascript",
+        "path": "/assets/skills/Javascript.png"
+    },
+    {
+        "name": "NextJs",
+        "path": "/assets/skills/NextJs.png"
+    },
+    {
+        "name": "Prisma",
+        "path": "/assets/skills/Prisma.png"
+    },
+    {
+        "name": "React",
+        "path": "/assets/skills/React.png"
+    },
+    {
+        "name": "Tailwind",
+        "path": "/assets/skills/Tailwind.png"
+    },
+    {
+        "name": "Discord.Js",
+        "path": "/assets/skills/Discordjs.png"
+    }
+
 ]
-}
