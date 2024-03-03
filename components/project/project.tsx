@@ -1,5 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
+import ProjectItem from './projectItem';
 
 const Project: React.FC = () => {
   return (
@@ -9,6 +10,7 @@ const Project: React.FC = () => {
                 <p className="text-blue-700 text-5xl text-center">Projects</p>
                 <p className="text-[#a8a8a8] text-xl">Vous trouverez ci-dessous tous les projects que j'ai pus réaliser où je suis fère de vous les partager</p>
             </div>
+            <ProjectItem />
         </div>
   );
 };
