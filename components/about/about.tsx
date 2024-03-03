@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import faustinImage from "./../../assets/faustin.jpg";
+import faustinImage from "./../../public/assets/faustin.jpg";
 
 const About: React.FC = () => {
   return (

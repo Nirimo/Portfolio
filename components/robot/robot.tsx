@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import robotGif from "./../../assets/robot.gif"
+import robotGif from "./../../public/assets/robot.gif"
 
 const Robot: React.FC = () => {
   return (
