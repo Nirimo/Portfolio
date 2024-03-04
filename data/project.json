@@ -2,14 +2,26 @@
     {
         "name":"DevosCode",
         "ImagePath":"/assets/projects/DevosCode.png",
-        "langage": ""
+        "langage": "Nextjs,Tailwind,Prisma",
+        "description": "DevosCode est site internet qui réuni une communauté de développeurs en proposant des cours mais aussi de l'entraide. Vous y trouverez aussi des petits outils de partage de code et bien d'autres",
+        "link":"https://devoscode.fr/",
+        "extension":"fr",
+        "codelink":"https://github.com/Nirimo"
     },{
         "name":"ScriptWorld",
         "ImagePath":"/assets/projects/scriptworld.jpg",
-        "langage": ""
+        "langage": "React,Prisma",
+        "description": "DevosCode est site internet qui réuni une communauté de développeurs en proposant des cours mais aussi de l'entraide. Vous y trouverez aussi des petits outils de partage de code et bien d'autres",
+        "link":"https://scriptworld.fr/",
+        "extension":"com"
+        
     },{
         "name":"DevosCode",
         "ImagePath":"/assets/projects/DevosCode.png",
-        "langage": ""
+        "langage": "Nextjs,Tailwind,Prisma",
+        "description": "DevosCode est site internet qui réuni une communauté de développeurs en proposant des cours mais aussi de l'entraide. Vous y trouverez aussi des petits outils de partage de code et bien d'autres",
+        "link":"https://devoscode.fr/",
+        "codelink":"https://github.com/Nirimo",
+        "extension":"fr"
     }
 ]
