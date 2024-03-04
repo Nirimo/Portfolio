@@ -8,7 +8,7 @@ import Footer from "@/components/footer/footer";
 
 export default function Home() {
   return (
-    <main className="">
+    <main>
       <Navbar/>
       <Robot/>
       <About/>
