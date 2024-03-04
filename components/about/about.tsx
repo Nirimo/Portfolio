@@ -90,14 +90,14 @@ const About: React.FC = () => {
                 </div>
                 <div className="text-[#a8a8a8] text-lg text-justify">
                     <p>
-                        Développeur frontend passionné par la création d\'expériences web
+                        Développeur frontend passionné par la création d&apos;expériences web
                         remarquables. Avec une expertise dans les technologies telles que HTML5,
                         CSS3, JavaScript, et des frameworks comme ReactJS et Vue.js, je
                         transforme vos idées en interfaces utilisateur interactives et
-                        esthétiques. Mon approche axée sur l\'utilisateur et mon engagement pour
+                        esthétiques. Mon approche axée sur l&apos;utilisateur et mon engagement pour
                         un design élégant et responsive garantissent des résultats exceptionnels
                         pour chaque projet. Prêt à donner vie à votre vision en ligne ?
-                        Contactez-moi dès aujourd\'hui et passons à l\'action !
+                        Contactez-moi dès aujourd&apos;hui et passons à l&apos;action !
                     </p>
                 </div>
             </div>
