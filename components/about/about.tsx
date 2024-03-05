@@ -97,7 +97,7 @@ const About: React.FC = () => {
                         esthétiques. Mon approche axée sur l&apos;utilisateur et mon engagement pour
                         un design élégant et responsive garantissent des résultats exceptionnels
                         pour chaque projet. Prêt à donner vie à votre vision en ligne ?
-                        Contactez-moi dès aujourd&apos;hui et passons à l'action !
+                        Contactez-moi dès aujourd&apos;hui et passons à l&apos;action !
                     </p>
                 </div>
             </div>
